@@ -1,6 +1,12 @@
 ### Hey 👋, I'm RJC367!
 
+**Socials**
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/discord.svg" />
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/instagram.svg" />
+
+<br />
+<br />
+
 <!--
 **rhyscleary/rhyscleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
