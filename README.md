@@ -1,6 +1,7 @@
 ### Hey 👋, I'm RJC367!
 
 **Socials**
+<br />
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/discord.svg" />
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/instagram.svg" />
 
