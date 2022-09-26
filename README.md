@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 
-## So you want to know about me?
+## So you want an about me?
 *I guess I can give you some information...*
 - Name: Rhys Cleary
 - Aliases: RJC
