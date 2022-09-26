@@ -7,7 +7,6 @@
 ### :rotating_light: NERD ALERT :rotating_light:
 
 **Socials**
-<br /> <br />
 
 <a href="youtube.com" target="_blank">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
