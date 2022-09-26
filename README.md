@@ -2,28 +2,26 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 </head>
 
-### G'day there, I'm Rhys 👋
-
-**Socials**
+## G'day there, I'm Rhys 👋
 
 <a href="youtube.com" target="_blank">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 
 <a href="youtube.com" target="_blank">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 
 <a href="youtube.com" target="_blank">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 
 <a href="youtube.com" target="_blank">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 
 <a href="youtube.com" target="_blank">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 
 
@@ -59,6 +57,8 @@
 
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
 
+<br />
+<br />
 <!--
 **rhyscleary/rhyscleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -70,8 +70,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 
-## So you want an about me?
-### :rotating_light: NERD ALERT :rotating_light:
+## So you want know about me?
 *I guess I can give you some information...*
 - Name: Rhys Cleary
 - Aliases: RJC
@@ -81,6 +80,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can reach me through socials or my business email provided above. 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Here's a fun fact, there are more wheels than doors in the world. 
+
+🔗 <a href="https://www.w3schools.com/">My Website</a>
+<br />
+👾 Discord: RJC#4966
 
 ## Further Less Important Information 
 - Known Programming Languages: 
