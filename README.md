@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... -->
 
 ## So you want to know about me?
-*(I guess I can give you some information)*
+*I guess I can give you some information...*
 - Name: Rhys Cleary
 - Aliases: RJC
 - Location: Sydney, Australia
