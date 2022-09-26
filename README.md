@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 - Aliases: RJC
 - 📌 Location: Sydney, Australia
 - 📧 Business Email: *Coming Soon*
-- 📙 Interest: Software Engineering, Systems Analysis, Music... this ain't a tinder profile, you know enough
-- 📫 How to reach me: You can reach me through discord (below) or my <a href="mailto:email@gmail.com?">business email</a>
+- 📙 Interest: Software Engineering, Systems Analysis, pop culture... this ain't a tinder profile, you know enough.
+- 📫 How to reach me: You can reach me through discord *(RJC#4966)* or my <a href="mailto:email@gmail.com?">business email</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Here's a fun fact, there are more wheels than doors in the world. 
 
