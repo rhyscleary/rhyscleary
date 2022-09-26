@@ -4,26 +4,17 @@
 
 ## G'day there, I'm Rhys 👋
 
-<a href="youtube.com" target="_blank">
+<a href="https://twitter.com/rjclive" target="_blank">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 
-<a href="youtube.com" target="_blank">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+<a href="https://www.instagram.com/RJCLive_/" target="_blank">
+  <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
 </a>
 
-<a href="youtube.com" target="_blank">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+<a href="https://open.spotify.com/user/ftjp5yx7ymxosfom8e44rere5?si=ba94ebb7a73c4045" target="_blank">
+  <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Spotify_App_Logo.svg" />
 </a>
-
-<a href="youtube.com" target="_blank">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
-</a>
-
-<a href="youtube.com" target="_blank">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
-</a>
-
 
 <br />
 <br />
@@ -47,7 +38,7 @@ Here are some ideas to get you started:
 - 📌 Location: Sydney, Australia
 - 📧 Business Email: *Coming Soon*
 - 📙 Interest: Software Engineering, Systems Analysis, pop culture... this ain't a tinder profile, you know enough.
-- 📫 How to reach me: You can reach me through discord *(RJC#4966)* or my <a href="mailto:email@gmail.com?">business email</a>
+- 📫 How to reach me: You can reach me through discord (RJC#4966) or my <a href="mailto:email@gmail.com?">business email</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Here's a fun fact, there are more wheels than doors in the world. 
 
