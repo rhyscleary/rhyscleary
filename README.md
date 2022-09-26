@@ -5,15 +5,15 @@
 ## G'day there, I'm Rhys 👋
 
 <a href="https://twitter.com/rjclive" target="_blank">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 
 <a href="https://www.instagram.com/RJCLive_/" target="_blank">
-  <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
+  <img align="left" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
 </a>
 
 <a href="https://open.spotify.com/user/ftjp5yx7ymxosfom8e44rere5?si=ba94ebb7a73c4045" target="_blank">
-  <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Spotify_App_Logo.svg" />
+  <img align="left" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Spotify_App_Logo.svg" />
 </a>
 
 <br />
