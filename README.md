@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 - 📌 Location: Sydney, Australia
 - 📧 Business Email: Coming Soon
 - 📙 Interest: Software Engineering, Systems Analysis, Music... this ain't a tinder profile, you know enough
-- 📫 How to reach me: You can reach me through socials or my business email which is all provided above. 
+- 📫 How to reach me: You can reach me through socials or my business email provided above. 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: *A fun fact about me or in general terms?* Here's a fun fact, there are more wheels than doors in the world. 
 
