@@ -32,7 +32,7 @@
 
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 
-<img align="left" width="35px" src= />
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 
 <br />
 <br />
