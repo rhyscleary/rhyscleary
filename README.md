@@ -1,10 +1,14 @@
-### Hey 👋, I'm RJC367!
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
+</head>
+
+### G'day there, I'm RJC! 👋
 
 ### :rotating_light: NERD ALERT :rotating_light:
 
 **Socials**
-<br />
-<a href="https://www.youtube.com/" target="_blank">
+<br /> <br />
+<a href="youtube.com" target="_blank">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/discord.svg" />
 </a>
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/instagram.svg" />
@@ -12,6 +16,26 @@
 <br />
 <br />
 
+**Languages** 
+
+<a href="https://www.youtube.com/" target="_blank">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/discord.svg" />
+</a>
+
+<a href="https://www.youtube.com/" target="_blank">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/discord.svg" />
+</a>
+
+<a href="https://www.youtube.com/" target="_blank">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/discord.svg" />
+</a>
+
+<a href="https://www.youtube.com/" target="_blank">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/discord.svg" />
+</a>
+
+<br />
+<br />
 <!--
 **rhyscleary/rhyscleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,3 +58,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can reach me through socials or my business email which is all provided above. 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: *A fun fact about me or in general terms?* Here's a fun fact, there are more wheels than doors in the world. 
+
+## Further Important Information 
+- Known Programming Languages: 
