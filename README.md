@@ -1,5 +1,7 @@
 ### Hey 👋, I'm RJC367!
 
+### :rotating_light: NERD ALERT :rotating_light:
+
 **Socials**
 <br />
 <a href="https://www.youtube.com/" target="_blank">
@@ -20,6 +22,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
+
+## So you want to know about me?
+*(I guess I can give you some information)*
+- Name: Rhys Cleary
+- Aliases: RJC
 - 📫 How to reach me: You can reach me on discord, instagram and twitter. 
 - 😄 Pronouns: he/him/they
 - ⚡ Fun fact: *A fun fact about me or in general terms?* Here's a fun fact, there are more wheels than doors in the world. 
