@@ -47,10 +47,10 @@
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-
+   
 <br />
 <br />
-
+      
 **Text editors and IDEs**
 
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
@@ -59,7 +59,6 @@
 
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
 
-<img align="left" width="35px" src= />
 <!--
 **rhyscleary/rhyscleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
