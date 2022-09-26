@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... -->
 - 📫 How to reach me: You can reach me on discord, instagram and twitter. 
 - 😄 Pronouns: he/him/they
-- ⚡ Fun fact: A fun fact about me or in general terms? Here's a fun fact, there are more wheels than doors in the world. 
+- ⚡ Fun fact: *A fun fact about me or in general terms?* Here's a fun fact, there are more wheels than doors in the world. 
