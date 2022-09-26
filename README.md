@@ -4,8 +4,6 @@
 
 ### G'day there, I'm Rhys 👋
 
-### :rotating_light: NERD ALERT :rotating_light:
-
 **Socials**
 
 <a href="youtube.com" target="_blank">
@@ -64,6 +62,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... -->
 
 ## So you want an about me?
+### :rotating_light: NERD ALERT :rotating_light:
 *I guess I can give you some information...*
 - Name: Rhys Cleary
 - Aliases: RJC
