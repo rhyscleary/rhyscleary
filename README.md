@@ -50,6 +50,16 @@
 
 <br />
 <br />
+
+**Text editors and IDEs**
+
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+
+<img align="left" width="35px" src= />
 <!--
 **rhyscleary/rhyscleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -71,7 +81,7 @@ Here are some ideas to get you started:
 - 📙 Interest: Software Engineering, Systems Analysis, Music... this ain't a tinder profile, you know enough
 - 📫 How to reach me: You can reach me through socials or my business email provided above. 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: *A fun fact about me or in general terms?* Here's a fun fact, there are more wheels than doors in the world. 
+- ⚡ Fun fact: Here's a fun fact, there are more wheels than doors in the world. 
 
-## Further Important Information 
+## Further Less Important Information 
 - Known Programming Languages: 
