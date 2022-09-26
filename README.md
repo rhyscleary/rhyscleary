@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 
-## So you want know about me?
+## So you want to know about me?
 *I guess I can give you some information...*
 - Name: Rhys Cleary
 - Aliases: RJC
@@ -84,6 +84,3 @@ Here are some ideas to get you started:
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
-
-<br />
-<br />
