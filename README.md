@@ -2,7 +2,9 @@
 
 **Socials**
 <br />
-<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/discord.svg" />
+<a href="https://www.youtube.com/" target="_blank">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/discord.svg" />
+</a>
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/instagram.svg" />
 
 <br />
