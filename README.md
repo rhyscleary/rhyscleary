@@ -34,16 +34,12 @@ Here are some ideas to get you started:
 ## So you want to know about me?
 *I guess I can give you some information...*
 - Name: Rhys Cleary
-- 📌 Location: Sydney, Australia
-- 📧 Business Email: *Coming Soon*
-- 📙 Interest: Software Engineering, Systems Analysis, pop culture... this ain't a tinder profile, you know enough.
-- 📫 How to reach me: You can reach me through discord (RJC#4966) or my <a href="mailto:email@gmail.com?">business email</a>
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Here's a fun fact, there are more wheels than doors in the world. 
+- 📙 Interest: Software Engineering,
+- 🌱 I’m currently studying Computer Science, majoring in Software Engineering
+- 📫 You can reach me @ discord RJC#4966 or <a href="mailto:email@gmail.com?">email</a>
 
 🔗 <a href="https://www.w3schools.com/">My Website</a>
 <br />
-👾 Discord: RJC#4966
 
 ## Further Infomation
 **Languages** 
@@ -63,14 +59,3 @@ Here are some ideas to get you started:
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-   
-<br />
-<br />
-      
-**Text editors and IDEs**
-
-<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-
-<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
