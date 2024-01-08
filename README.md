@@ -6,7 +6,7 @@
 
 <!--- 📙 Interested in programming.-->
 - 🌱 Currently studying Computer Science, majoring in Software Engineering.
-- 📫 You can reach me at <a href="https://discord.com">Rhys#7090</a> <!--or <a href="mailto:email@gmail.com?">email</a>-->.
+- 📫 You can reach me on <a href="https://discordapp.com/users/745158027400839208">Discord</a> <!--or <a href="mailto:email@gmail.com?">email</a>-->.
 
 <!--🔗 <a href="https://www.w3schools.com/">My Website</a> -->
 
